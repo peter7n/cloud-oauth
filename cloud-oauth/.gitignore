@@ -1,0 +1,5 @@
+.DS_Store
+appengine_config.pyc
+client_secrets.json
+main.pyc
+webapp2.pyc
